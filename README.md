@@ -1,6 +1,6 @@
 # 👋 Halo! Saya Narendra Fatin Fahrezi
 
-Saya adalah seorang pelajar SMK dengan jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Negeri 6 Surakarta**.  
+Saya Juga bisa di pangil Naren ,Saya adalah seorang pelajar SMK dengan jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Negeri 6 Surakarta**.  
 Saya senang mengeksplorasi berbagai tools pengembangan serta bahasa pemrograman untuk **front-end, web, mobile, desktop application development**, dan juga tertarik pada **UI/UX Design**.  
 
 ---
